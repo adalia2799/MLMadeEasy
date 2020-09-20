@@ -1,0 +1,6 @@
+seaborn==0.10.1
+bokeh==2.0.2
+streamlit==0.60.0
+pandas==1.0.3
+numpy==1.16.2
+scikit_learn==0.23.2
